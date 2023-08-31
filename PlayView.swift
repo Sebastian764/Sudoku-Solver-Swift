@@ -56,7 +56,7 @@ struct PlayView: View {
                         }
                     }
                 }
-                BoldLinesView()
+                // BoldLinesView()
             }
             .padding()
             
