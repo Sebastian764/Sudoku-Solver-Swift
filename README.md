@@ -24,3 +24,6 @@ Finally, the user can also ask the app to solve the board. If the board is solva
 <img width="400" alt="Screenshot 2023-08-31 at 11 34 55 AM" src="https://github.com/Sebastian764/Sudoku-Solver-Swift/assets/120810193/aed2b759-47b3-4e49-ab3f-0532bfa88bf1">
 
 
+Note: I added the camera manager for future expansion, but it is currently unused.
+
+
